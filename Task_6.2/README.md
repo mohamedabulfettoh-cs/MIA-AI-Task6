@@ -169,14 +169,9 @@ PY
 ```
 
 ## 10. Example inputs and outputs
+<video controls src="20260829-1231-31.7429474-1.mp4" title="Title"></video>
 
-<!-- TODO: open artifacts/eval_results.json, pick 2-3 examples, and fill in a table like this:
-
-| Image | Generated caption | Reference captions |
-|---|---|---|
-| (filename or thumbnail) | model's output | one of the 5 human captions |
-
-Add a short screen recording of the Gradio UI here too. -->
+There are obviously inaccuracies in the generated captions, with the biggest inacccuracy being with the flower image, that makes sense since the model was trained on Flickr8k which is mostly outdoor scenes with people and animals, not flowers. The other two images are more in line with the training data, so the model does somewhat better with them, the second image the model gets the gender of the person wrong as it says it is a female when it is a guy, the third image the model makes a mistake because of the dogs' silhouttes and shadows causing it to think it is a group of people riding horses, the fourth and final image the model gets right because it perfectly aligns with the Flickr8k dataset (not part of the dataset, just similar to what it includes).
 
 ## 11. Running tests
 
