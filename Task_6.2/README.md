@@ -169,7 +169,7 @@ PY
 ```
 
 ## 10. Example inputs and outputs
-<video controls src="20260829-1231-31.7429474-1.mp4" title="Title"></video>
+[<video controls src="20260829-1231-31.7429474-1.mp4" title="Title"></video>](https://github.com/user-attachments/assets/d483690a-4c2b-4536-8177-fe6d09fff0de)
 
 There are obviously inaccuracies in the generated captions, with the biggest inacccuracy being with the flower image, that makes sense since the model was trained on Flickr8k which is mostly outdoor scenes with people and animals, not flowers. The other two images are more in line with the training data, so the model does somewhat better with them, the second image the model gets the gender of the person wrong as it says it is a female when it is a guy, the third image the model makes a mistake because of the dogs' silhouttes and shadows causing it to think it is a group of people riding horses, the fourth and final image the model gets right because it perfectly aligns with the Flickr8k dataset (not part of the dataset, just similar to what it includes).
 
