@@ -1,0 +1,122 @@
+{
+  "metrics": {
+    "bleu-1": 0.5926610023396134,
+    "bleu-2": 0.4079242830552387,
+    "bleu-3": 0.274577298936237,
+    "bleu-4": 0.18351972685228318,
+    "rougeL": 0.44178779089090975,
+    "meteor": 0.3863320273972265
+  },
+  "examples": [
+    {
+      "image": "2745663684_650f84e1e6.jpg",
+      "generated": "a woman in a white shirt is jogging on a sidewalk",
+      "references": [
+        "a boy in a tank top skateboarding",
+        "a boy skateboards down the street",
+        "a kid in a striped tank top skateboards down the street",
+        "a man wearing shorts and a tank top riding a skateboard",
+        "a young man skateboarding on a street wearing a black and white striped shirt"
+      ]
+    },
+    {
+      "image": "2265367960_7928c5642f.jpg",
+      "generated": "a young boy wearing a blue shirt and sunglasses is holding a stick",
+      "references": [
+        "a boy sitting down smiling for the picture",
+        "a child holding some shoes",
+        "a child in blue and wearing a hat smiles",
+        "a young boy smiling and holding sandals",
+        "the boy is wearing a hat and holding sandals"
+      ]
+    },
+    {
+      "image": "2991575785_bd4868e215.jpg",
+      "generated": "a woman in a blue shirt is standing on a sidewalk",
+      "references": [
+        "a girl doing a kick near a woman",
+        "a girl in black high kicks over a jackolantern",
+        "a girl in jeans tries to show an adult how high she can kick",
+        "a girl kicking her leg up to the shoulder of a woman standing next to her",
+        "a woman kicks at a man"
+      ]
+    },
+    {
+      "image": "3547368652_0d85c665d3.jpg",
+      "generated": "a man in a red shirt jumps off a ramp",
+      "references": [
+        "a boy leaps off his skateboard over some steps near a house",
+        "a person wearing a red shirt jumps with a skateboard over the steps",
+        "a skateboarder is jumping down three steps",
+        "kid riding skateboard down the stairs",
+        "the boy is skateboarding on the stairs"
+      ]
+    },
+    {
+      "image": "1445123245_c7b9db0e0c.jpg",
+      "generated": "a black and brown dog is playing with a red ball",
+      "references": [
+        "a black and tan dog plays with a centipede toy",
+        "a dog tags a nap on a rug near his favorite toy a plush centipede",
+        "a short long haired dog plays with a multicolored stuffed toy centipede",
+        "a small brown and black dog plays with a colorful caterpillar toy on a tan burbur carpet",
+        "yorkshire terrier plays with multicolor centipede toy"
+      ]
+    },
+    {
+      "image": "3092370204_029b6bc10a.jpg",
+      "generated": "a woman and a woman are sitting on a bench",
+      "references": [
+        "a group of people in dark colored clothing are line dancing on a wooden floor",
+        "a group of teenagers are dancing on a wooden floor",
+        "a large group of people line dancing in a dim room",
+        "several women dancing",
+        "two women among a group of people in a bowlike stance"
+      ]
+    },
+    {
+      "image": "3685373706_37f2ced9ff.jpg",
+      "generated": "a man in a blue shirt and blue shorts is standing in front of a crowd",
+      "references": [
+        "a man is shirtless and is covered in red marks",
+        "a man with several red marks on his body is holding a flag while people in the background are cheering",
+        "a shirtless man covered in red lipstick kisses waving a blue flag",
+        "a shirtless man waaves a flag",
+        "a shirtless man with red paint on his torso holding a stick"
+      ]
+    },
+    {
+      "image": "3132832452_c354c6396c.jpg",
+      "generated": "a man and a woman are sitting on a couch",
+      "references": [
+        "a family surrounds a baby in the father s lap",
+        "a family gathers in the living room",
+        "a man is sitting on a couch holding a baby while surrounded by children",
+        "a man sitting on a couch holding a baby surrounded by three young girls",
+        "three little girls looking at a baby that a man is holding on his lap"
+      ]
+    },
+    {
+      "image": "1149179852_acad4d7300.jpg",
+      "generated": "a man is riding a horse down a street",
+      "references": [
+        "a man without a shirt on is guiding a large brown horse pulling a green and yellow wagon",
+        "a shirtless man escorts a horse pulling a carriage along a paved road",
+        "a shirtless man leading a horse that is pulling a carriage",
+        "shirtless man leading a small horsedrawn covered wagon down a road",
+        "the shirtless man is walking the shetland pony and carriage down the street"
+      ]
+    },
+    {
+      "image": "256085101_2c2617c5d0.jpg",
+      "generated": "a brown and white dog is running through the grass",
+      "references": [
+        "a dog with its mouth opened",
+        "brown and white dog yawning",
+        "closeup of dog in profile with mouth open",
+        "dog yawns",
+        "the dog s mouth is open like he is yawning"
+      ]
+    }
+  ]
+}

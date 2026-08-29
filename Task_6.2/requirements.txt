@@ -1,0 +1,15 @@
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.44.2
+fastapi==0.112.0
+uvicorn[standard]==0.30.5
+gradio==4.44.0
+python-multipart==0.0.9
+pillow==10.4.0
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.66.5
+nltk==3.9.1
+rouge-score==0.1.2
+gensim==4.3.3
+pydantic==2.8.2

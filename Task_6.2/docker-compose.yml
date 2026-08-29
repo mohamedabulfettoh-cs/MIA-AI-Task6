@@ -1,0 +1,10 @@
+services:
+  caption-app:
+    build: .
+    ports:
+      - "7860:7860"
+    environment:
+      - CAPTION_MODEL_MODE=auto
+    volumes:
+      - ./artifacts:/code/artifacts:ro
+    restart: unless-stopped

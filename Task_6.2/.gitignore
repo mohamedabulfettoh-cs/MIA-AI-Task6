@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/flickr8k/Images/
+data/cache/
